@@ -1,3 +1,7 @@
+//
+// Following this example: https://github.com/beegee-tokyo/SX126x-Arduino/tree/master/examples/LoRaWanPio
+//
+
 #include <Arduino.h>
 
 #include <LoRaWan-Arduino.h>
