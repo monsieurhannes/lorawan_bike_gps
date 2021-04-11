@@ -1,5 +1,6 @@
 //
 // Following this example: https://github.com/beegee-tokyo/SX126x-Arduino/tree/master/examples/LoRaWanPio
+// REPLACE THE IDs AFTER ROW 100
 //
 
 #include <Arduino.h>
